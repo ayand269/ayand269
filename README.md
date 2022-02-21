@@ -44,6 +44,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Android](https://img.shields.io/badge/-Android-a4c639?style=for-the-badge&logo=android&logoColor=ffffff)
+![XCode](https://img.shields.io/badge/-Xcode-0997f5?style=for-the-badge&logo=xcode&logoColor=ffffff)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
