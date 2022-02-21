@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working **Redux, Express, Node.js, python, Typescript, etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/soumyadeephalder?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/ayand269?tab=repositories)
 
 - 💬 Ask me about **Javascript**
 
