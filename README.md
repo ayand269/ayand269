@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayan</h1>
-<h3 align="center">Senior Full Stack Developer from India</h3>
+<h3 align="center">Senior React Native Developer from India</h3>
 	
 <!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumyadeephalder&color=blueviolet&style=flat">
-</p> -->
+  <img src="https://komarev.com/ghpvc/?username=ayand269&color=blueviolet&style=flat">
+</p>  -->
 
-- 🌱 I’m currently working **Redux, Express, Node.js, python, Typescript, etc.**
+- 🌱 I’m currently working **Redux, React Native, Flutter, React JS, Typescript, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/ayand269?tab=repositories)
 
