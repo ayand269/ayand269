@@ -51,17 +51,23 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ayand269">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayand269&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayand269&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+	<a href="https://github.com/ayand269">
+	<img 
+	  height="180em" 
+	  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayand269&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
+	  alt="Ayan Das"
+	/>
+	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayand269&layout=compact&langs_count=8&theme=algolia" alt="Ayan Das"/>
+	</a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/ayan-das-838601216"><img src="https://img.shields.io/badge/Ayan-Das-22372b153?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ayand269@gmail.com"><img src="https://img.shields.io/badge/-ayand269@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://twitter.com/soumyadeep"><img src="https://img.shields.io/badge/-@soumyadeep-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-</p> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeep&" alt="soumyadeep" /></p>
+	<a href="https://www.linkedin.com/in/ayan-das-838601216"><img src="https://img.shields.io/badge/Ayan-Das-22372b153?style=flat&logo=Linkedin&logoColor=white" alt="Ayan Das"/></a>
+	<a href="mailto:ayand269@gmail.com"><img src="https://img.shields.io/badge/-ayand269@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Ayan Das"/></a>
+	<a href="https://twitter.com/ayand269"><img src="https://img.shields.io/badge/-@ayand269-1877F2?style=flat&logo=Twitter&logoColor=white" alt="Ayan Das"/></a>
+</p>
+
+<h2 align="left">🏆 Github trophies:</h2>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ayand269&theme=onedark" alt="Ayan Das" /> </p>
