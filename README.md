@@ -60,9 +60,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<!-- <a href="https://www.soumyadeephalder.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/ayan-das-838601216"><img src="https://img.shields.io/badge/Ayan-Das-22372b153?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ayand269@gmail.com"><img src="https://img.shields.io/badge/-ayand269@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://twitter.com/soumyadeep"><img src="https://img.shields.io/badge/-@soumyadeep-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p> -->
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeep&" alt="soumyadeep" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeep&" alt="soumyadeep" /></p>
