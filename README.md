@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ayan Das</h1>
-<h3 align="center">Senior React Native Developer from India</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi%20%F0%9F%91%8B,%20I%27m%20Ayan%20Das;I%27m+MERN+Stack+Developer;I+loved+learning+and+enjoying+new+technology;I+also+love+fixing+bugs;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<!-- <h1 align="center">Hi 👋, I'm Ayan Das</h1>
+<h3 align="center">Senior React Native Developer from India</h3> -->
 	
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayand269&color=blueviolet&style=flat">
 </p>  -->
 
-- 🌱 I’m currently working **Redux, React Native, Flutter, React JS, Typescript, etc.**
+- 🌱 I’m currently working **Redux, React Native, Flutter, React JS, Typescript, Node JS, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/ayand269?tab=repositories)
 
@@ -66,8 +70,17 @@
 <p>
 	<a href="https://www.linkedin.com/in/ayan-das-838601216"><img src="https://img.shields.io/badge/Ayan-Das-22372b153?style=flat&logo=Linkedin&logoColor=white" alt="Ayan Das"/></a>
 	<a href="mailto:ayand269@gmail.com"><img src="https://img.shields.io/badge/-ayand269@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Ayan Das"/></a>
-	<a href="https://twitter.com/ayand269"><img src="https://img.shields.io/badge/-@ayand269-1877F2?style=flat&logo=Twitter&logoColor=white" alt="Ayan Das"/></a>
+	<a href="https://x.com/ayand269"><img src="https://img.shields.io/badge/-@ayand269-000000?style=flat&logo=X&logoColor=white" alt="Ayan Das"/></a>
+	<a href="https://facebook.com/ayand269"><img src="https://img.shields.io/badge/-@ayand269-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Ayan Das"/></a>
+	<a href="https://www.instagram.com/ayand269"><img src="https://img.shields.io/badge/-@ayand269-e1306c?style=flat&logo=Instagram&logoColor=white" alt="Ayan Das"/></a>
 </p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hasan-Rifat}/count.svg" /></p> 
+<br></div>
 
 <h2 align="left">🏆 Github trophies:</h2>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ayand269&theme=onedark" alt="Ayan Das" /> </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
