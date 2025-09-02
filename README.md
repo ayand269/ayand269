@@ -270,10 +270,6 @@ graph TD
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayand269&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayand269&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</div>
-
 <br>
 
 ## 🏆 **Achievements & Trophies**
